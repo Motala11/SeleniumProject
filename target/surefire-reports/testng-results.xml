@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-25T12:45:33 BST" name="DemoQATestSuite" finished-at="2025-06-25T12:46:38 BST" duration-ms="65288">
+    <groups>
+    </groups>
+    <test started-at="2025-06-25T12:45:33 BST" name="All TestCases" finished-at="2025-06-25T12:46:38 BST" duration-ms="65288">
+      <class name="TestCases.ElementsTextBoxTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.ElementsTextBoxTest@452ba1db]" started-at="2025-06-25T12:45:33 BST" name="setUp" finished-at="2025-06-25T12:45:50 BST" duration-ms="16734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testElementsTextBoxField()[pri:0, instance:TestCases.ElementsTextBoxTest@452ba1db]" started-at="2025-06-25T12:45:50 BST" name="testElementsTextBoxField" finished-at="2025-06-25T12:45:50 BST" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testElementsTextBoxField -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.ElementsTextBoxTest@452ba1db]" started-at="2025-06-25T12:45:50 BST" name="tearDown" finished-at="2025-06-25T12:45:54 BST" duration-ms="3189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.ElementsTextBoxTest -->
+      <class name="TestCases.RegisterPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.RegisterPageTest@3e2943ab]" started-at="2025-06-25T12:46:18 BST" name="setUp" finished-at="2025-06-25T12:46:33 BST" duration-ms="15092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRegisterNewUser()[pri:0, instance:TestCases.RegisterPageTest@3e2943ab]" started-at="2025-06-25T12:46:33 BST" name="testRegisterNewUser" finished-at="2025-06-25T12:46:34 BST" duration-ms="1087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegisterNewUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.RegisterPageTest@3e2943ab]" started-at="2025-06-25T12:46:34 BST" name="tearDown" finished-at="2025-06-25T12:46:38 BST" duration-ms="3955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.RegisterPageTest -->
+      <class name="TestCases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.LoginTest@26fb628]" started-at="2025-06-25T12:45:54 BST" name="setUp" finished-at="2025-06-25T12:46:16 BST" duration-ms="22269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:0, instance:TestCases.LoginTest@26fb628]" started-at="2025-06-25T12:46:16 BST" name="testLogin" finished-at="2025-06-25T12:46:16 BST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.LoginTest@26fb628]" started-at="2025-06-25T12:46:16 BST" name="tearDown" finished-at="2025-06-25T12:46:18 BST" duration-ms="2036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.LoginTest -->
+    </test> <!-- All TestCases -->
+  </suite> <!-- DemoQATestSuite -->
+</testng-results>

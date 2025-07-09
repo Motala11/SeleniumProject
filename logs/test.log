@@ -1,0 +1,80 @@
+2025-06-18 14:50:51 [main] INFO  LoginTest - Executing login test
+2025-06-18 14:51:01 [main] INFO  LoginTest - Browser closed
+2025-06-18 14:53:16 [main] INFO  LoginTest - Executing login test
+2025-06-18 14:53:28 [main] INFO  LoginTest - Browser closed
+2025-06-18 14:53:56 [main] INFO  LoginTest - Executing login test
+2025-06-18 14:54:09 [main] INFO  LoginTest - Browser closed
+2025-06-18 15:01:10 [main] INFO  LoginTest - Executing login test
+2025-06-18 15:01:24 [main] INFO  LoginTest - Browser closed
+2025-06-18 15:15:42 [main] INFO  LoginTest - Executing login test
+2025-06-18 15:15:44 [main] INFO  LoginTest - Browser closed
+2025-06-19 11:05:15 [main] INFO  LoginTest - Executing login test
+2025-06-19 11:05:17 [main] INFO  LoginTest - Browser closed
+2025-06-19 11:10:46 [main] INFO  LoginTest - Executing login test
+2025-06-19 11:10:48 [main] INFO  LoginTest - Browser closed
+2025-06-19 11:38:09 [main] INFO  LoginTest - Executing login test
+2025-06-19 11:38:12 [main] INFO  LoginTest - Browser closed
+2025-06-19 11:41:50 [main] INFO  LoginTest - Executing login test
+2025-06-19 11:41:52 [main] INFO  LoginTest - Browser closed
+2025-06-19 11:41:59 [main] INFO  RegisterPage - Executing registration test
+2025-06-19 11:42:18 [main] INFO  RegisterPage - Browser closed
+2025-06-19 11:42:48 [main] INFO  LoginTest - Executing login test
+2025-06-19 11:42:50 [main] INFO  LoginTest - Browser closed
+2025-06-19 11:42:57 [main] INFO  RegisterPage - Executing registration test
+2025-06-19 11:43:14 [main] INFO  RegisterPage - Browser closed
+2025-06-19 11:44:38 [main] INFO  LoginTest - Executing login test
+2025-06-19 11:44:40 [main] INFO  LoginTest - Browser closed
+2025-06-19 11:44:46 [main] INFO  RegisterPage - Executing registration test
+2025-06-19 11:44:59 [main] INFO  RegisterPage - Browser closed
+2025-06-19 13:49:36 [main] INFO  ElementsTextBox - Executing ElementsTextBoxField test
+2025-06-19 13:49:40 [main] INFO  ElementsTextBox - Browser closed
+2025-06-19 13:49:51 [main] INFO  LoginTest - Executing login test
+2025-06-19 13:49:54 [main] INFO  LoginTest - Browser closed
+2025-06-19 13:50:05 [main] INFO  RegisterPage - Executing registration test
+2025-06-19 13:50:19 [main] INFO  RegisterPage - Browser closed
+2025-06-19 14:09:04 [main] INFO  ElementsTextBox - Executing ElementsTextBoxField test
+2025-06-19 14:09:08 [main] INFO  ElementsTextBox - Browser closed
+2025-06-19 14:09:16 [main] INFO  LoginTest - Executing login test
+2025-06-19 14:09:19 [main] INFO  LoginTest - Browser closed
+2025-06-19 14:09:28 [main] INFO  RegisterPage - Executing registration test
+2025-06-19 14:09:41 [main] INFO  RegisterPage - Browser closed
+2025-06-23 09:59:52 [main] INFO  LoginTest - Executing login test
+2025-06-23 09:59:56 [main] INFO  LoginTest - Browser closed
+2025-06-23 10:01:19 [main] INFO  LoginTest - Executing login test
+2025-06-23 10:01:22 [main] INFO  LoginTest - Browser closed
+2025-06-23 10:47:58 [main] INFO  ElementsTextBox - Executing ElementsTextBoxField test
+2025-06-23 10:48:14 [main] INFO  ElementsTextBox - Browser closed
+2025-06-23 10:48:25 [main] INFO  LoginTest - Executing login test
+2025-06-23 10:48:28 [main] INFO  LoginTest - Browser closed
+2025-06-23 10:48:40 [main] INFO  RegisterPage - Executing registration test
+2025-06-23 10:49:01 [main] INFO  RegisterPage - Browser closed
+2025-06-23 10:51:35 [main] INFO  ElementsTextBox - Executing ElementsTextBoxField test
+2025-06-23 10:51:50 [main] INFO  ElementsTextBox - Browser closed
+2025-06-23 10:51:59 [main] INFO  LoginTest - Executing login test
+2025-06-23 10:52:02 [main] INFO  LoginTest - Browser closed
+2025-06-23 10:52:13 [main] INFO  RegisterPage - Executing registration test
+2025-06-23 10:52:33 [main] INFO  RegisterPage - Browser closed
+2025-06-23 10:54:50 [main] INFO  ElementsTextBox - Executing ElementsTextBoxField test
+2025-06-23 10:55:02 [main] INFO  ElementsTextBox - Browser closed
+2025-06-23 10:55:15 [main] INFO  LoginTest - Executing login test
+2025-06-23 10:55:18 [main] INFO  LoginTest - Browser closed
+2025-06-23 10:55:28 [main] INFO  RegisterPage - Executing registration test
+2025-06-23 10:55:49 [main] INFO  RegisterPage - Browser closed
+2025-06-24 10:05:20 [main] INFO  ElementsTextBox - Executing ElementsTextBoxField test
+2025-06-24 10:05:36 [main] INFO  ElementsTextBox - Browser closed
+2025-06-24 10:05:59 [main] INFO  LoginTest - Executing login test
+2025-06-24 10:06:04 [main] INFO  LoginTest - Browser closed
+2025-06-24 10:06:29 [main] INFO  RegisterPage - Executing registration test
+2025-06-24 10:06:53 [main] INFO  RegisterPage - Browser closed
+2025-06-25 10:05:03 [main] INFO  ElementsTextBox - Executing ElementsTextBoxField test
+2025-06-25 10:05:20 [main] INFO  ElementsTextBox - Browser closed
+2025-06-25 10:05:34 [main] INFO  LoginTest - Executing login test
+2025-06-25 10:05:37 [main] INFO  LoginTest - Browser closed
+2025-06-25 10:05:54 [main] INFO  RegisterPage - Executing registration test
+2025-06-25 10:06:01 [main] INFO  RegisterPage - Browser closed
+2025-06-25 12:45:50 [main] INFO  ElementsTextBox - Executing ElementsTextBoxField test
+2025-06-25 12:45:54 [main] INFO  ElementsTextBox - Browser closed
+2025-06-25 12:46:16 [main] INFO  LoginTest - Executing login test
+2025-06-25 12:46:18 [main] INFO  LoginTest - Browser closed
+2025-06-25 12:46:33 [main] INFO  RegisterPage - Executing registration test
+2025-06-25 12:46:38 [main] INFO  RegisterPage - Browser closed
